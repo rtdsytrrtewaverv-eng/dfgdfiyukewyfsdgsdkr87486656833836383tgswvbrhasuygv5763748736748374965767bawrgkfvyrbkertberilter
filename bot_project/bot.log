@@ -1,0 +1,86 @@
+2026-10-11 23:16:18,495 [INFO] __main__: Инициализация базы данных...
+2026-10-11 23:16:18,498 [INFO] __main__: Бот запущен!
+2026-10-11 23:16:18,499 [INFO] aiogram.dispatcher: Start polling
+2026-10-11 23:16:18,806 [INFO] aiogram.dispatcher: Run polling for bot @bvbcnbxvnrttrtrtoiooiggdhfa_bot id=8738796426 - 'holyyyyyyyyyyyyyy'
+2026-10-11 23:16:18,869 [WARNING] __main__: ⚠️ Проблемы с правами бота в 1 канал(ах):
+2026-10-11 23:16:18,869 [WARNING] __main__:   • @holy_IPA: Telegram server says - Bad Request: member list is inaccessible
+2026-10-11 23:16:34,001 [INFO] aiogram.event: Update id=958958763 is handled. Duration 415 ms by bot id=8738796426
+2026-10-11 23:16:42,593 [INFO] aiogram.event: Update id=958958764 is not handled. Duration 3 ms by bot id=8738796426
+2026-10-11 23:16:55,809 [INFO] aiogram.event: Update id=958958765 is handled. Duration 233 ms by bot id=8738796426
+2026-10-11 23:16:57,040 [INFO] aiogram.event: Update id=958958766 is handled. Duration 220 ms by bot id=8738796426
+2026-10-11 23:17:12,971 [INFO] aiogram.event: Update id=958958767 is handled. Duration 111 ms by bot id=8738796426
+2026-10-11 23:17:15,546 [INFO] aiogram.event: Update id=958958768 is handled. Duration 258 ms by bot id=8738796426
+2026-10-11 23:20:48,515 [INFO] handlers.user: Deep-link от 111: args='file_yandexm8_09'
+2026-10-11 23:20:48,526 [INFO] aiogram.event: Update id=1 is handled. Duration 11 ms by bot id=8738796426
+2026-10-11 23:20:48,526 [INFO] handlers.user: Deep-link от 111: args='file_yandexm8.09'
+2026-10-11 23:20:48,534 [INFO] aiogram.event: Update id=1 is handled. Duration 8 ms by bot id=8738796426
+2026-10-11 23:20:48,534 [INFO] handlers.user: Deep-link от 111: args='file_yandexm8'
+2026-10-11 23:20:48,542 [INFO] aiogram.event: Update id=1 is handled. Duration 7 ms by bot id=8738796426
+2026-10-11 23:20:48,542 [INFO] handlers.user: Обычный /start от 111: text='/start'
+2026-10-11 23:20:48,548 [INFO] aiogram.event: Update id=1 is handled. Duration 5 ms by bot id=8738796426
+2026-10-11 23:20:59,004 [INFO] __main__: Инициализация базы данных...
+2026-10-11 23:20:59,008 [INFO] __main__: Бот запущен!
+2026-10-11 23:20:59,008 [INFO] aiogram.dispatcher: Start polling
+2026-10-11 23:20:59,488 [INFO] aiogram.dispatcher: Run polling for bot @bvbcnbxvnrttrtrtoiooiggdhfa_bot id=8738796426 - 'holyyyyyyyyyyyyyy'
+2026-10-11 23:20:59,522 [WARNING] __main__: ⚠️ Проблемы с правами бота в 1 канал(ах):
+2026-10-11 23:20:59,522 [WARNING] __main__:   • @holy_IPA: Telegram server says - Bad Request: member list is inaccessible
+2026-10-11 23:22:16,407 [INFO] handlers.user: Обычный /start от 1709466054: text='/start'
+2026-10-11 23:22:16,603 [INFO] aiogram.event: Update id=958958769 is handled. Duration 196 ms by bot id=8738796426
+2026-10-11 23:22:42,440 [INFO] handlers.user: Обычный /start от 6991475741: text='/start'
+2026-10-11 23:22:42,590 [INFO] aiogram.event: Update id=958958770 is handled. Duration 150 ms by bot id=8738796426
+2026-10-11 23:22:48,353 [INFO] handlers.user: Обычный /start от 6991475741: text='/start'
+2026-10-11 23:22:48,527 [INFO] aiogram.event: Update id=958958771 is handled. Duration 174 ms by bot id=8738796426
+2026-10-11 23:22:59,335 [INFO] aiogram.event: Update id=958958772 is handled. Duration 166 ms by bot id=8738796426
+2026-10-11 23:23:13,970 [INFO] aiogram.event: Update id=958958773 is handled. Duration 166 ms by bot id=8738796426
+2026-10-11 23:23:16,029 [INFO] aiogram.event: Update id=958958774 is handled. Duration 196 ms by bot id=8738796426
+2026-10-11 23:23:17,635 [INFO] aiogram.event: Update id=958958775 is handled. Duration 163 ms by bot id=8738796426
+2026-10-11 23:23:19,482 [INFO] aiogram.event: Update id=958958776 is handled. Duration 241 ms by bot id=8738796426
+2026-10-11 23:23:20,505 [INFO] aiogram.event: Update id=958958777 is handled. Duration 341 ms by bot id=8738796426
+2026-10-11 23:23:21,664 [INFO] aiogram.event: Update id=958958778 is handled. Duration 375 ms by bot id=8738796426
+2026-10-11 23:23:22,449 [INFO] aiogram.event: Update id=958958779 is handled. Duration 235 ms by bot id=8738796426
+2026-10-11 23:23:24,105 [INFO] aiogram.event: Update id=958958780 is handled. Duration 183 ms by bot id=8738796426
+2026-10-11 23:23:24,971 [INFO] aiogram.event: Update id=958958781 is handled. Duration 157 ms by bot id=8738796426
+2026-10-11 23:23:25,780 [INFO] aiogram.event: Update id=958958782 is handled. Duration 169 ms by bot id=8738796426
+2026-10-11 23:23:26,730 [INFO] aiogram.event: Update id=958958783 is handled. Duration 175 ms by bot id=8738796426
+2026-10-11 23:23:28,149 [INFO] aiogram.event: Update id=958958784 is handled. Duration 151 ms by bot id=8738796426
+2026-10-11 23:23:39,574 [INFO] aiogram.event: Update id=958958785 is not handled. Duration 2 ms by bot id=8738796426
+2026-10-11 23:24:26,063 [INFO] aiogram.event: Update id=958958786 is not handled. Duration 2 ms by bot id=8738796426
+2026-10-11 23:24:26,863 [INFO] handlers.user: Deep-link от 1709466054: args='file_yandexm8_09'
+2026-10-11 23:24:27,108 [INFO] aiogram.event: Update id=958958787 is handled. Duration 244 ms by bot id=8738796426
+2026-10-11 23:24:37,621 [INFO] aiogram.event: Update id=958958788 is not handled. Duration 2 ms by bot id=8738796426
+2026-10-11 23:24:38,160 [INFO] handlers.user: Deep-link от 6991475741: args='file_yandexm8_09'
+2026-10-11 23:24:38,338 [INFO] aiogram.event: Update id=958958789 is handled. Duration 178 ms by bot id=8738796426
+2026-10-11 23:24:42,456 [INFO] aiogram.event: Update id=958958790 is handled. Duration 455 ms by bot id=8738796426
+2026-10-11 23:24:51,417 [INFO] aiogram.event: Update id=958958791 is handled. Duration 196 ms by bot id=8738796426
+2026-10-11 23:24:57,529 [INFO] aiogram.event: Update id=958958792 is handled. Duration 294 ms by bot id=8738796426
+2026-10-11 23:25:04,063 [INFO] aiogram.event: Update id=958958793 is handled. Duration 247 ms by bot id=8738796426
+2026-10-11 23:25:11,012 [INFO] aiogram.event: Update id=958958794 is handled. Duration 214 ms by bot id=8738796426
+2026-10-11 23:25:12,900 [INFO] aiogram.event: Update id=958958795 is handled. Duration 246 ms by bot id=8738796426
+2026-10-11 23:25:14,263 [INFO] aiogram.event: Update id=958958796 is handled. Duration 203 ms by bot id=8738796426
+2026-10-11 23:25:15,681 [INFO] aiogram.event: Update id=958958797 is handled. Duration 182 ms by bot id=8738796426
+2026-10-11 23:25:16,715 [INFO] aiogram.event: Update id=958958798 is handled. Duration 257 ms by bot id=8738796426
+2026-10-11 23:25:19,057 [INFO] aiogram.event: Update id=958958799 is handled. Duration 164 ms by bot id=8738796426
+2026-10-11 23:25:23,240 [INFO] aiogram.event: Update id=958958800 is handled. Duration 171 ms by bot id=8738796426
+2026-10-11 23:25:25,227 [INFO] aiogram.event: Update id=958958801 is handled. Duration 167 ms by bot id=8738796426
+2026-10-11 23:25:26,669 [INFO] aiogram.event: Update id=958958802 is handled. Duration 193 ms by bot id=8738796426
+2026-10-11 23:25:29,123 [INFO] aiogram.event: Update id=958958803 is handled. Duration 155 ms by bot id=8738796426
+2026-10-11 23:25:33,821 [INFO] aiogram.event: Update id=958958804 is handled. Duration 174 ms by bot id=8738796426
+2026-10-11 23:25:34,828 [INFO] aiogram.event: Update id=958958805 is handled. Duration 197 ms by bot id=8738796426
+2026-10-11 23:25:35,791 [INFO] aiogram.event: Update id=958958806 is handled. Duration 167 ms by bot id=8738796426
+2026-10-11 23:25:37,298 [INFO] aiogram.event: Update id=958958807 is handled. Duration 257 ms by bot id=8738796426
+2026-10-11 23:25:42,527 [INFO] aiogram.event: Update id=958958808 is handled. Duration 192 ms by bot id=8738796426
+2026-10-11 23:26:40,274 [INFO] __main__: Инициализация базы данных...
+2026-10-11 23:26:40,278 [INFO] __main__: Бот запущен!
+2026-10-11 23:26:40,278 [INFO] aiogram.dispatcher: Start polling
+2026-10-11 23:26:40,610 [INFO] aiogram.dispatcher: Run polling for bot @bvbcnbxvnrttrtrtoiooiggdhfa_bot id=8738796426 - 'holyyyyyyyyyyyyyy'
+2026-10-11 23:26:40,635 [INFO] __main__: ✅ Права бота во всех каналах в порядке.
+2026-10-11 23:27:21,204 [INFO] handlers.user: Deep-link от 1709466054: args='file_yandexm8_09'
+2026-10-11 23:27:21,387 [INFO] aiogram.event: Update id=958958809 is handled. Duration 183 ms by bot id=8738796426
+2026-10-11 23:31:00,913 [INFO] handlers.user: Обычный /start от 1709466054: text='/start'
+2026-10-11 23:31:01,119 [INFO] aiogram.event: Update id=958958810 is handled. Duration 206 ms by bot id=8738796426
+2026-10-11 23:46:05,917 [INFO] bot: Keep-alive сервер запущен на порту 8080
+2026-10-11 23:46:05,918 [INFO] aiohttp.access: 127.0.0.1 [11/Oct/2026:23:46:05 +0300] "GET /health HTTP/1.1" 200 174 "-" "Python/3.14 aiohttp/3.14.5"
+2026-10-11 23:46:29,198 [INFO] aiogram.event: Update id=958958811 is handled. Duration 280 ms by bot id=8738796426
+2026-10-11 23:46:30,529 [INFO] aiogram.event: Update id=958958812 is handled. Duration 180 ms by bot id=8738796426
+2026-10-11 23:46:31,453 [INFO] aiogram.event: Update id=958958813 is handled. Duration 237 ms by bot id=8738796426
+2026-10-11 23:46:33,537 [INFO] aiogram.event: Update id=958958814 is handled. Duration 184 ms by bot id=8738796426
